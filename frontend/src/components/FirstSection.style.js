@@ -76,9 +76,12 @@ export const SecondImageContainer = styled.div`
 
 export const BigImage = styled.img`
   margin-bottom: -5px;
+  width: 400px;
 `;
 
-export const SmallImage = styled.img``;
+export const SmallImage = styled.img`
+  width: 195px;
+`;
 
 export const InnerWrapper = styled.div`
   display: flex;

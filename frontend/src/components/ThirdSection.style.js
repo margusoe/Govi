@@ -47,7 +47,7 @@ export const MidCardItem = styled.div`
 `;
 
 export const Image = styled.img`
-  height: 700px;
+  height: 600px;
   padding: 5px;
   object-fit: fill;
 `;
