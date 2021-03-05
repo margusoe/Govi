@@ -90,7 +90,7 @@ export const SignUp = styled.span`
 
 export const HeaderContainer = styled.div`
   width: 100%;
-  height: 900px;
+  height: 750px;
   background-image: url("images/banner.png");
   background-repeat: no-repeat;
   background-size: 100%;
@@ -115,7 +115,7 @@ export const RContainer = styled.div`
   justify-content: space-between;
   align-items: center;
   padding-right: 40px;
-  width: 30%;
+  width: 33%;
 `;
 
 export const CategorySpan = styled.a`
@@ -191,8 +191,8 @@ export const TextContainer = styled.div`
   flex-direction: column;
   width: 500px;
   position: absolute;
-  right: 10%;
-  top: 40%;
+  right: 5%;
+  top: 35%;
   text-align: center;
   align-items: center;
 `;
